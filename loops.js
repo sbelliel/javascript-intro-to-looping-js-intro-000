@@ -5,4 +5,3 @@ forLoop(array) {
 
   return array
 }}
-
